@@ -1,0 +1,42 @@
+{
+  "identifier": "DuesheetStoreKit",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21000000000001",
+      "localizations": [],
+      "name": "Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "21000000000002",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Recurring assignment templates and calendar sync",
+              "displayName": "Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.duesheet.pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Pro Monthly",
+          "subscriptionGroupID": "21000000000001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
